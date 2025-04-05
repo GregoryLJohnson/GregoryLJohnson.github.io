@@ -1,0 +1,8 @@
+remote_theme: mmistakes/minimal-mistakes@latest
+plugins:
+  - jekyll-remote-theme
+title: The Journey
+description: "Welcome to the journey!"
+author:
+  name: Gregory Johnson
+  url: "https://gregoryljohnson.github.io/"
